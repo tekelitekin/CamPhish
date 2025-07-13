@@ -37,3 +37,4 @@ rm -f LocationError.log
 rm -f Log.log
 
 echo "Cleanup completed successfully!" 
+
